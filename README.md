@@ -1,5 +1,5 @@
 # PyPirate
-A simple proof-of-concept ransomware written with Python
+A simple proof-of-concept ransomware written with Python.
 
 **Note:** PyPirate is not intended to be used on any device that you do not have permission to use.
 
